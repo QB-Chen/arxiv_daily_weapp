@@ -16,4 +16,5 @@ See detailed introduction on [Zhihu](https://zhuanlan.zhihu.com/p/76578218).
 
 Your sponsorship will help us provide fast, reliable service to our users by covering our project's server costs (1560 RMB/year). By supporting our open-source software, you enable us tocontinue delivering value to the community. To sponsor us, please scan the barcode in the below. Thank you for your generous support.
 
-
+## environment
+nodejs 8.0.0
