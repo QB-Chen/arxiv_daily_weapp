@@ -18,4 +18,6 @@ Your sponsorship will help us provide fast, reliable service to our users by cov
 
 ## env
 nodejs 8.0.0 (use nvm to manage multi node environments)
-本地环境：http://127.0.0.1:xxxx调试时，需要在微信开发者工具的右上角打开“详情→本地设置→不检验合法域名……HTTPS证书”的选项。
+
+本地环境环境下即http://127.0.0.1:xxxx
+调试时，需要在微信开发者工具的右上角打开“详情→本地设置→不检验合法域名……HTTPS证书”的选项。
